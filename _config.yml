@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anand Kumar Bapatla"
+title                    : "AP"
 title_separator          : "-"
-name                     : &name "Anand Kumar Bapatla"
+name                     : &name "Aadesh"
 description              : &description "personal description"
 url                      : https://aadupadhyay1.github.io/aadeshportfolio.github.io// # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
