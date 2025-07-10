@@ -10,7 +10,8 @@ redirect_from:
 E-mail
 ===
 <hr/>
-E-mail ID: BAPATLA@UCMO.EDU
+E-mail: aadeshupadhyay30@gmail.com
+LinkedIn : linkedin.com/aadeshupadhyay
 
 Phone Number
 ===
@@ -20,7 +21,7 @@ Phone Number
 <!-- Mailing Address
 ===
 <hr/>
-Anand Kumar Bapatla <br>
+Aadesh <br>
 213 Avenue G, <br>
 Apt #20,<br>
 Denton,<br>
