@@ -16,13 +16,6 @@ LinkedIn : linkedin.com/aadeshupadhyay
 Phone Number
 ===
 <hr/>
-(660) 543-6624
+141412230
 
-<!-- Mailing Address
-===
-<hr/>
-Aadesh <br>
-213 Avenue G, <br>
-Apt #20,<br>
-Denton,<br>
-TX - 76201<br> -->
+
