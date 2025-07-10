@@ -11,9 +11,9 @@ title                    : "Anand Kumar Bapatla"
 title_separator          : "-"
 name                     : &name "Anand Kumar Bapatla"
 description              : &description "personal description"
-url                      : https://anandkumarbapatla.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aadupadhyay1.github.io/aadeshportfolio.github.io// # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anandkumarbapatla/anandkumarbapatla.github.io"
+repository               : "aadupadhyay1/aadeshportfolio.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
